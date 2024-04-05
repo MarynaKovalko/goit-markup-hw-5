@@ -216,8 +216,6 @@ img {
 
 }
 
-
-
 /*------------------------------------------*/
 
 /*-----------------Our Team----------------*/
@@ -260,7 +258,6 @@ img {
 .team-image {
     background-color: #fff
 }
-
 
 .team-subtitle {
     font-weight: 500;
@@ -370,5 +367,3 @@ img {
     max-width: 264px;
     padding-top: 16px;
 }
-
-/*--------------------------*/
