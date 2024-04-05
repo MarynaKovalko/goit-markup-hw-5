@@ -289,7 +289,7 @@ img {
 .portfolio-name {
     border: 1px solid #E7E9FC;
     border-top: none;
-    padding: 32px 6px;
+    padding: 32px 16px;
 }
 
 .portfolio-title {
@@ -321,6 +321,7 @@ img {
     letter-spacing: 0.02em;
     color: #2e2f42;
     padding-left: 16px;
+    margin-bottom: 8px
 }
 
 .portfolio-text {
@@ -352,6 +353,8 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-bottom: 16px;
+    display: inline-block;
 
 }
 
