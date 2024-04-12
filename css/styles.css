@@ -313,7 +313,7 @@ img {
 .icon-menu {
     width: 40px;
     height: 40px;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 
 .icon-link {
@@ -338,6 +338,7 @@ img {
 
 .team-menu-icon {
     fill: #F4F4FD;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 
