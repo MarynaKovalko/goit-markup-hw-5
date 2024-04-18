@@ -737,6 +737,7 @@ img {
     padding-left: 2px;
 }
 
+
 .text-check .faik-button {
     width: 16px;
     height: 16px;
@@ -746,6 +747,7 @@ img {
     align-items: center;
     justify-content: center;
     display: flex;
+    fill: transparent;
 }
 
 .modal-checkbox:checked+.text-check .faik-button {
@@ -753,6 +755,8 @@ img {
     border: none;
     fill: #f4f4fd;
 }
+
+
 
 .button-send {
     border-radius: 4px;
