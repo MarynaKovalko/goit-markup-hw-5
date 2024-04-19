@@ -570,6 +570,65 @@ img {
 
 .footer-title {}
 
+.footer-subscribe {
+    position: relative;
+    display: flex;
+    display: block;
+    width: 453px;
+    margin-left: 80px;
+    margin: 0 auto;
+}
+
+.footer-label {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #fff;
+    padding-bottom: 16px;
+}
+
+.footer-input {
+    border: 1px solid #fff;
+    border-radius: 4px;
+    width: 264px;
+    height: 40px;
+    background-color: transparent;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
+    color: #fff;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    margin-right: 24px;
+}
+
+.button-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #fff;
+    border-radius: 4px;
+    width: 165px;
+    height: 40px;
+    background: #4d5ae5;
+
+}
+
+.footer-svg {
+    fill: #fff;
+}
+
+
 /*--------------Modal---------------*/
 
 .backdrop {
