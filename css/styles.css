@@ -522,6 +522,8 @@ img {
     display: flex;
     display: block;
     width: 208px;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .container-icon-text {
@@ -571,14 +573,15 @@ img {
 .footer-title {}
 
 .footer-subscribe {
-    position: relative;
     display: flex;
-    display: block;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
     width: 453px;
     margin-left: 80px;
 }
 
-.footer-label {
+.text-subscribe {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -605,10 +608,6 @@ img {
 }
 
 .button-footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
     gap: 16px;
     font-weight: 500;
     font-size: 16px;
