@@ -588,7 +588,9 @@ img {
     letter-spacing: 0.02em;
     color: #fff;
     padding-bottom: 16px;
+    margin-left: 80px;
 }
+
 
 .footer-input {
     border: 1px solid #fff;
@@ -608,22 +610,25 @@ img {
 }
 
 .button-footer {
-    gap: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    text-align: center;
     color: #fff;
     border-radius: 4px;
+    background: #4d5ae5;
     width: 165px;
     height: 40px;
-    background: #4d5ae5;
-
+    gap: 16px;
+    padding: 8px 24px;
 }
 
 .footer-svg {
     fill: #fff;
+
 }
 
 
