@@ -821,7 +821,7 @@ img {
 }
 
 .modal-checkbox:checked+.text-check>.faik-button {
-    background-color: #4d5ae5;
+    background-color: #404BBF;
     border: none;
     fill: #f4f4fd;
 }
